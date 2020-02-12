@@ -2,7 +2,7 @@
 
 The goal of this project was to create a MVP(minumum viable product) within 24 hours with end product being ready to demo.  I created a recipe application that displays ten random recipes, along with their image.
 
-!(./mvp_recipe/images/screenShots/mainScreenShot.png?raw=true)
+![Alt text](/images/screenShots/mainScreenShot.png?raw=true)
 
 With the time constrant in mind I had to limit my expectations for the projects functionality and create something with enough CSS to be pleasing to the eye and presentable.
 
