@@ -10,7 +10,7 @@ With the time constrant in mind I had to limit my expectations for the projects 
 
 Prerequisites: NodeJS and Xcode
 
-First, in order to use this application you must have access to the Spoonacular API.  You can sign up for a free account [here](https://spoonacular.com/food-api/pricing) in order to get a key, and replace this piece of code in client/src/components/random.jsx line 22:
+First, in order to use this application you must have access to the Spoonacular API.  You can sign up for a free account [here](https://spoonacular.com/food-api/pricing) in order to get an API key, and replace this piece of code in client/src/components/random.jsx line 22:
 
 ```
 `https://api.spoonacular.com/recipes/random?number=10&apiKey= Your Key`
