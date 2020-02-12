@@ -38,5 +38,12 @@ After, navigate to the './mvp_recipes/server' directory and run:
 ```
 $ node app.js
 ```
-Command + click the 'http://localhost:3000' link.
+Command + click the 'http://localhost:3000' link, or click this link.
 This will open the website in a new tab.
+
+## Home Page
+
+The home page gives the user the name, picture, ingredients and instructions of 10 random recipes (1). The user can also refresh these recipes by clicking the "Randomize!" button (2).
+
+![Alt text](/images/screenShots/homePgScreenShot.png?raw=true)
+
