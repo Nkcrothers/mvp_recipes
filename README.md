@@ -38,5 +38,5 @@ After, navigate to the './mvp_recipes/server' directory and run:
 ```
 $ node app.js
 ```
-Command + click the 'http://localhost:3000' link.
+Command + click the 'http://localhost:3000' link, or click this link.
 This will open the website in a new tab.
