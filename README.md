@@ -47,3 +47,16 @@ The home page gives the user the name, picture, ingredients and instructions of 
 
 ![Alt text](/images/screenShots/homePgScreenShot.png?raw=true)
 
+## Built With
+
+* React.js
+* Webpack
+* Node.js
+* Express
+
+## Author
+
+**Neil Crothers** - Software Engineer
+
+* [GitHub Profile](https://github.com/nkcrothers)
+
